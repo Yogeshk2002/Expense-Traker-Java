@@ -1,0 +1,48 @@
+body {
+    background: #f0f2f5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 100vh;
+    padding-bottom: 40px;
+}
+
+h2, h5 {
+    font-weight: 600;
+}
+
+.container {
+    background: white;
+    border-radius: 10px;
+}
+
+table {
+    font-size: 0.95rem;
+}
+
+table.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+}
+
+table.table-hover tbody tr:hover {
+    background-color: #e9ecef;
+    cursor: pointer;
+}
+
+.btn-primary, .btn-success {
+    font-weight: 600;
+    letter-spacing: 0.03em;
+}
+
+.form-label {
+    font-weight: 600;
+}
+
+input[type="date"] {
+    cursor: pointer;
+}
+
+/* Responsive improvements */
+@media (max-width: 575.98px) {
+    .container {
+        padding: 1rem;
+    }
+}

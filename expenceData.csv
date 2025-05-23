@@ -1,0 +1,6 @@
+TYPE   ,CATEGORY  ,AMOUNT  ,DATE  
+Income ,Salary,23500,01-05-2025
+Expense ,PG,9500,02-05-2025
+Expense ,Groceries,2500,03-05-2025
+Expense ,Amazon,500,08-05-2025
+Expense ,Movie,300,15-05-2025
