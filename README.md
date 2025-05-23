@@ -13,6 +13,7 @@ The main screen of the application includes the following core functionalities:
 - 📁 **Upload CSV** – Upload a `.csv` file containing multiple transactions at once.
 
 > 📸 **Screenshot 1**: Full-screen view showing all three major features in a single interface.
+> ![image_alt](https://github.com/Yogeshk2002/Expense-Traker-Java/blob/8a1f69e834f3e1ad72c166b2d70878d2021080b0/Screenshot%202025-05-23%20232213.png)
 
 ---
 
