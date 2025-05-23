@@ -70,6 +70,7 @@ You can bulk upload transactions using a `.csv` file in the **Upload Transaction
 > 📸 **Screenshot 4**: Shows the upload interface with file selection and upload button.
 > ![](https://github.com/Yogeshk2002/Expense-Traker-Java/blob/d9fd691ec0b29b9e30786ca786fae56ecc43df85/Screenshot%202025-05-23%20233031.png)
 > 📸 **Screenshot 5**: Displays the result after uploading and viewing summary.
+> ![](https://github.com/Yogeshk2002/Expense-Traker-Java/blob/6ef96dc1c5408ea351f2036196d01e9ebfc29cc0/Screenshot%202025-05-23%20233046.png)
 
 ---
 
