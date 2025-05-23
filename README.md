@@ -33,6 +33,7 @@ Use the **Add Transaction** section to manually input a transaction.
 > - Category: Salary  
 > - Amount: 50000  
 > - Date: 01/05/2025
+> - [!](https://github.com/Yogeshk2002/Expense-Traker-Java/blob/34ed22e564ae48d8e6738c92743dae3e49d90864/Screenshot%202025-05-23%20232333.png)
 
 ---
 
