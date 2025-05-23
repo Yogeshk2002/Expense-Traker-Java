@@ -49,6 +49,7 @@ This section allows you to **view a summary of all transactions** for a particul
 The summary helps track all income and expenses to manage budgets effectively.
 
 > 📸 **Screenshot 3**: Shows the summary results for the selected month and year.
+> ![](https://github.com/Yogeshk2002/Expense-Traker-Java/blob/dcc0e1288d26efeae365016c858f446b6ee8d09d/Screenshot%202025-05-23%20232747.png)
 
 ---
 
